@@ -4,9 +4,7 @@ A lightweight, custom Google Chrome extension that allows you to quickly look up
 
 ## Features
 * **Quick Search:** Look up acronyms instantly via the popup interface.
-* **Return-to-Search:** Press the `Enter` key to submit a search without clicking.
 * **Web Fallback:** Automatically generates a Google search link for unknown acronyms.
-* **Contribution Links:** Clickable links to request new acronyms via GitHub or Email.
 
 ## Installation Instructions
 

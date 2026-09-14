@@ -36,7 +36,7 @@ document.getElementById("searchBtn").addEventListener("click", () => {
       resultDiv.innerHTML = `
         Acronym not found.<br><br>
         <a href="https://www.google.com/search?q=${query}+meaning" target="_blank">Search the Web for "${query}"</a><br><br>
-        <a href="https://github.com/your-username/your-repo" target="_blank">Add it on GitHub</a><br>
+        <a href="https://github.com/mdulchinos-vgs/very-good-acronyms" target="_blank">Add it on GitHub</a><br>
         or <a href="mailto:your.email@example.com?subject=Acronym Addition Request: ${query}">Email Me</a>
       `;
       resultDiv.style.color = "red";
