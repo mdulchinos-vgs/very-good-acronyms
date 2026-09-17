@@ -23,6 +23,11 @@ const acronymDictionary = {
   "CMP": "Card Management Platform",
   "PSP": "Payment Service Provider",
   "SFTP": "Secure File Transfer Protocol",
+  "ANI": "Account Name Inquiry",
+  "DSS": "Data Security Standard",
+  "PAV": "Payment Account Validation",
+  "SOC2": "Service Organization Control 2",
+  "3DS": "3-D Secure, the card authentication protocol VGS offers execution-only support for",
   "Larky": "A safe, non-Turing complete subset of Python 3 built on Google's Starlark built by VGS for data security/tokenization"
 };
 
