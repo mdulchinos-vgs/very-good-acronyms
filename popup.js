@@ -8,6 +8,15 @@ const acronymDictionary = {
   "SA": "Solutions Architect",
   "PII": "Personally Identifiable Information",
   "AU": "Account Updater, a feature which allows for the updating of cards with things like updated expiry date.",
+  "UAU": "Unified Account Updater: A sub service of account updater that we use to run Visa au at 100x speed",
+  "OAI": "Open AI",
+  "AOV": "Average Order Volume",
+  "PMR": "Payment Message Router",
+  "GDPR": "General Data Protection Regulation (a strict European Union law on data privacy and security)",
+  "CAAR": "Contract Average Anualized Revenue",
+  "GA": "General Availbility",
+  "PAR": "Production Access Request",
+  "DRI": "Designated Resposible Individual",
   "VAS": "Value Added Services",
   "NT": "Network Token",
   "TPS": "Transactions Per Second",
@@ -28,6 +37,8 @@ const acronymDictionary = {
   "PAV": "Payment Account Validation",
   "SOC2": "Service Organization Control 2",
   "3DS": "3-D Secure, the card authentication protocol VGS offers execution-only support for",
+  "Frontbook": "organic traffic",
+  "Backbook": "migration traffic",
   "Larky": "A safe, non-Turing complete subset of Python 3 built on Google's Starlark built by VGS for data security/tokenization"
 };
 
